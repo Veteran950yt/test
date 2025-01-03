@@ -1,0 +1,15 @@
+#header_div {
+    background-color: rgb(33, 33, 33);
+    color: rgb(198, 198, 198);
+    padding-left: 10px;
+    padding-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin: 0%;
+    width: auto;
+    height: 100px;
+}
+
+#red {
+    color: blue;
+}
